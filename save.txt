@@ -1,0 +1,1 @@
+/Applications/MongoDB Compass.app,/Applications/Spotify.app,/Library/anaconda3/Anaconda-Navigator.app,/Applications/Cleaner-App.app,/Applications/AnyDesk.app,/Applications/Discord.app,
